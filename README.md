@@ -2,8 +2,7 @@
   Icinga2 plugin to check amount of VPN connection on ASA
 </h1>
 
-Checked on ASA 5500
-# 📚 Manual:
+**Checked on ASA 5550**
 
 # 💻 Installation:
 Download and add to icinga plugin dir
